@@ -1,0 +1,34 @@
+body
+{
+    background-color: cadetblue;
+    flex-direction: row;
+    padding: 9em;
+    display: flex; 
+}
+.gap-2{
+      gap: 2em;
+}
+.conteiner { 
+    display: flex; 
+    justify-content: center;
+}
+.box1{ 
+    display: flex; 
+    justify-content: center; padding: 4em; 
+    height: 200px;
+    width:150px; background-color: black;
+}
+.box2{ 
+    display: flex; 
+    justify-content: center; padding: 4em;
+    height: 200px; 
+    width:150px; background-color: green; 
+}
+.box3{ 
+    display: flex;
+    justify-content: center; 
+    padding: 4em;
+    height: 200px; 
+    width:150px; background-color: rebeccapurple;
+}
+
